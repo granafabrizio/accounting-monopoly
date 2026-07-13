@@ -246,7 +246,7 @@ body{font-family:'Inter','SF Pro Text',-apple-system,BlinkMacSystemFont,'Segoe U
   .cp-btns,.cp-player-pick,.cp-teacher-box,.cp-noprint{display:none !important;}
   #credit-note{display:none !important;}
 }
-#credit-note{position:fixed;right:10px;bottom:8px;z-index:150;font-size:10.5px;color:var(--muted);background:rgba(255,255,255,.72);backdrop-filter:blur(2px);padding:3px 9px;border:1px solid var(--bd);border-radius:8px;pointer-events:none;user-select:none;letter-spacing:.01em;box-shadow:var(--shadow);}
+#credit-note{position:fixed;right:10px;bottom:8px;z-index:150;max-width:340px;text-align:right;line-height:1.35;font-size:10px;color:var(--muted);background:rgba(255,255,255,.72);backdrop-filter:blur(2px);padding:3px 9px;border:1px solid var(--bd);border-radius:8px;pointer-events:none;user-select:none;letter-spacing:.01em;box-shadow:var(--shadow);}
 </style>
 </head>
 <body>
@@ -2337,6 +2337,6 @@ function showTab(t){
 function setStatus(m){const el=document.getElementById('stbar');if(el)el.textContent=m;}
 window.addEventListener('resize',()=>{if(players.length)players.forEach((_,i)=>posTok(i));});
 </script>
-<div id="credit-note">© All rights are the property of Fabrizio Granà</div>
+<div id="credit-note">© 2026 Fabrizio Granà — All rights reserved. Unauthorized copying or redistribution is prohibited.</div>
 </body>
 </html>

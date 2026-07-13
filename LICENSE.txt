@@ -1,0 +1,34 @@
+Copyright © 2026 Fabrizio Granà. All rights reserved.
+
+Accounting Monopoly — an educational double-entry bookkeeping game.
+
+This software and all associated source code, design, text, and materials
+(the "Work") are the exclusive property of Fabrizio Granà and are protected
+by copyright law and international treaties.
+
+NO LICENSE IS GRANTED for the reuse, copying, modification, distribution,
+publication, sublicensing, or commercial exploitation of the Work, in whole
+or in part, without the prior written permission of the author.
+
+Permitted use:
+  - Individuals may access and play the game through its published web page
+    for personal or classroom learning purposes.
+
+Prohibited without prior written authorization from the author:
+  - Copying, downloading, or reproducing the source code for reuse.
+  - Modifying or creating derivative works based on the Work.
+  - Redistributing, republishing, or hosting copies of the Work elsewhere.
+  - Any commercial use of the Work or any part of it.
+  - Removing or altering this notice or the in-app copyright statement.
+
+The availability of the source code in a web browser (an inherent technical
+characteristic of all web pages) does not constitute a grant of any rights
+and does not authorize any of the prohibited uses listed above.
+
+For permissions, licensing enquiries, or authorized use, contact the author,
+Fabrizio Granà.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE
+USE OF THE WORK.
